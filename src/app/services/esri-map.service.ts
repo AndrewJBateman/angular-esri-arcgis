@@ -31,7 +31,7 @@ export class EsriMapService {
               // When mapView resources loaded execute further processes
               resolve('true');
             },
-            (err) => {
+            (err: Error) => {
               console.error(err);
               reject(err);
             }

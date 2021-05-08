@@ -1,6 +1,6 @@
 # :zap: Angular Esri Arcgis
 
-* Angular app using RxJS operators and the ArcGIS API mapping solution from [Esri](https://www.esri.com/en-us/home) with [esri-loader](https://github.com/Esri/esri-loader). **Note:** This is the old-fashioned way using esri-loader - from v4.18 of the ArcGIS API for JavaScript it is easier to use @arcgis/core and [building with Esri ES modules](https://developers.arcgis.com/javascript/latest/es-modules/) instead of using esri-loader.
+* Angular app to display a zommable map view with using the ArcGIS API mapping solution from [Esri](https://www.esri.com/en-us/home) with [esri-loader](https://github.com/Esri/esri-loader). **Note:** This is the old-fashioned way using esri-loader - from v4.18 of the ArcGIS API for JavaScript it is easier to use @arcgis/core and [building with Esri ES modules](https://developers.arcgis.com/javascript/latest/es-modules/) instead of using esri-loader.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -24,11 +24,10 @@
 
 * [ArcGIS API for Javascript CDN](https://developers.arcgis.com/javascript/latest/guide/get-api/#cdn) link in `esri-map` component.
 * [ArcGIS for Developers](https://developers.arcgis.com/) offers a full suite of tools and resources to build mapping and analytics solutions. Use ArcGIS APIs to create location-based applications for web, desktop, and mobile devices.
-* RxJS subscriptions objects used to represents the execution of observables
 
 ## :camera: Screenshots
 
-![Example screenshot](./img/map.jpg)
+![Example screenshot](./img/map.png)
 
 ## :signal_strength: Technologies
 
@@ -36,7 +35,6 @@
 * [Esri-loader v2](https://github.com/Esri/esri-loader) library to use the ArcGIS API for JavaScript
 * [ArcGIS API for JavaScript v4.18](https://developers.arcgis.com/javascript/) mapping and analytics software
 * [@types/arcgis-js-api v4.18.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
-* [RxJS Library v6](https://angular.io/guide/rx-library) used to handle async operations using observables. Do not update to RxJS v7.
 
 ## :floppy_disk: Setup
 

@@ -1,5 +1,7 @@
 @import 'https://js.arcgis.com/4.10/esri/css/main.css';
 
-.esri-view {
+.map-view {
   height: 500px;
+  width: 500px;
+  margin: 20px auto;
 }
