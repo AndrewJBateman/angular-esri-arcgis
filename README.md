@@ -36,7 +36,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v12](https://angular.io/)
+* [Angular v13](https://angular.io/)
 * [Esri-loader v3](https://github.com/Esri/esri-loader) library to use the ArcGIS API for JavaScript
 * [ArcGIS API for JavaScript v4.19](https://developers.arcgis.com/javascript/) mapping and analytics software
 * [@types/arcgis-js-api v4.18.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
@@ -111,7 +111,7 @@ export class EsriMapComponent implements OnInit {
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. Updated may 2021
+* Status: Working.
 * To-Do: Nothing. This is the old way of accessing map data using esri-loader. In future use [Esri ES modules](https://developers.arcgis.com/javascript/latest/es-modules/).
 
 ## :clap: Inspiration
