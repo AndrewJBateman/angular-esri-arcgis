@@ -1,6 +1,6 @@
 # :zap: Angular Esri Arcgis
 
-* Angular app to display a zommable map view using the ArcGIS API mapping solution from [Esri](https://www.esri.com/en-us/home) with [esri-loader](https://github.com/Esri/esri-loader). **Note:** This is the old-fashioned way using esri-loader - from v4.18 of the ArcGIS API for JavaScript it is easier to use @arcgis/core and [building with Esri ES modules](https://developers.arcgis.com/javascript/latest/es-modules/) instead of using esri-loader.
+* Angular app to display a zoomable map view using the ArcGIS API mapping solution from [Esri](https://www.esri.com/en-us/home) with [esri-loader](https://github.com/Esri/esri-loader). **Note:** This is the old-fashioned way using esri-loader - from v4.18 of the ArcGIS API for JavaScript it is easier to use @arcgis/core and [building with Esri ES modules](https://developers.arcgis.com/javascript/latest/es-modules/) instead of using esri-loader.
 
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
