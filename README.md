@@ -36,10 +36,10 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v14](https://angular.io/)
+* [Angular v15](https://angular.io/)
 * [Esri-loader v3](https://github.com/Esri/esri-loader) library to use the ArcGIS API for JavaScript
 * [ArcGIS API for JavaScript v4.24](https://developers.arcgis.com/javascript/) mapping and analytics software
-* [@types/arcgis-js-api v4.24.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
+* [@types/arcgis-js-api v4.25.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
 
 ## :floppy_disk: Setup
 
