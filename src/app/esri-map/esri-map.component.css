@@ -1,4 +1,7 @@
-@import 'https://js.arcgis.com/4.10/esri/css/main.css';
+@import "https://js.arcgis.com/4.25/esri/themes/light/main.css";
+
+/*uncomment to use dark theme*/
+/* @import "https://js.arcgis.com/4.25/esri/themes/dark/main.css"; */
 
 .map-view {
   height: 500px;
