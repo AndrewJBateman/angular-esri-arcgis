@@ -12,17 +12,17 @@
 ## :page_facing_up: Table of contents
 
 * [:zap: Angular Esri Arcgis](#zap-angular-esri-arcgis)
-  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:page\_facing\_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
-  * [:signal_strength: Technologies](#signal_strength-technologies)
-  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:signal\_strength: Technologies](#signal_strength-technologies)
+  * [:floppy\_disk: Setup](#floppy_disk-setup)
   * [:flashlight: Testing](#flashlight-testing)
   * [:computer: Code Examples](#computer-code-examples)
   * [:cool: Features](#cool-features)
-  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clipboard: Status \& To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
-  * [:file_folder: License](#file_folder-license)
+  * [:file\_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -38,8 +38,8 @@
 
 * [Angular v15](https://angular.io/)
 * [Esri-loader v3](https://github.com/Esri/esri-loader) library to use the ArcGIS API for JavaScript
-* [ArcGIS API for JavaScript v4.24](https://developers.arcgis.com/javascript/) mapping and analytics software
-* [@types/arcgis-js-api v4.25.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
+* [ArcGIS API for JavaScript v4.27](https://developers.arcgis.com/javascript/) mapping and analytics software
+* [@types/arcgis-js-api v4.27.0](https://www.npmjs.com/package/@types/arcgis-js-api) type definitions for ArcGIS API for JavaScript
 
 ## :floppy_disk: Setup
 
@@ -125,4 +125,4 @@ export class EsriMapComponent implements OnInit {
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@yahoo.com`
